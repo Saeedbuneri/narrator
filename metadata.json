@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Video Narrator",
+  "description": "A local video analysis tool that extracts frames, uses Gemini to describe scenes, generates a cohesive commentary, and narrates it back to you.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
